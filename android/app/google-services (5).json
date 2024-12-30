@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054732799671",
+    "project_id": "fire-base-ef396",
+    "storage_bucket": "fire-base-ef396.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054732799671:android:049ad9cbc3ee97038c0732",
+        "android_client_info": {
+          "package_name": "com.example.uwse_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzglPhJg3fO-4e1MGktleVXCVx8LyNmGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
